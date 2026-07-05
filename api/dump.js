@@ -2,7 +2,7 @@ const AdmZip = require('adm-zip');
 const fetch = require('node-fetch');
 
 // URL do release no GitHub (troca pelo seu)
-const ZIP_URL = 'https://github.com/SEU_USER/SEU_REPO/releases/download/v1.0/69ms_V2_SRC.zip';
+const ZIP_URL = 'https://github.com/mighuelfreitas40-sys/site/releases/download/v1.0/69ms_V2_SRC.zip';
 
 let cachedData = null;
 let cacheTime = 0;
